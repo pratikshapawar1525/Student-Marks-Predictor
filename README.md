@@ -103,8 +103,7 @@ student-marks-predictor/
 
 ## 📸 Preview
 
-*(Add a screenshot of your app here — e.g. the "Predict Marks" form and result)*
-(https://raw.githubusercontent.com/pratikshapawar1525/Student-Marks-Predictor/blob/main/prediction%20img.png)
+https://raw.githubusercontent.com/pratikshapawar1525/Student-Marks-Predictor/blob/main/prediction%20img.png
 
 
 
