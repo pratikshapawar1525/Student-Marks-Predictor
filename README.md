@@ -103,7 +103,9 @@ student-marks-predictor/
 
 ## 📸 Preview
 
-https://raw.githubusercontent.com/pratikshapawar1525/Student-Marks-Predictor/blob/main/prediction%20img.png
+## App Screenshot
+
+![Student Marks Predictor](prediction%20img.png)
 
 
 
