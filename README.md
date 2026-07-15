@@ -91,7 +91,7 @@ http://127.0.0.1:5000/
 
 student-marks-predictor/
 │
-├── app.py                 # Flask application & ML model training
+├── main.py                 # Flask application & ML model training
 ├── student_info.csv       # Dataset
 ├── templates/
 │   └── index.html         # Frontend HTML
